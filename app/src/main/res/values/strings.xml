@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cart</string>
+    <string name="device_s_name">Device\'s Name</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="device_s_price" />
+    <string name="name1">Name</string>
+    <string name="price2">Price</string>
+</resources>
